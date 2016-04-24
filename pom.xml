@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angularjs-pdf</artifactId>
-    <version>1.3.0</version>
+    <version>1.3.1-SNAPSHOT</version>
     <name>angularjs-pdf</name>
     <description>WebJar for angularjs-pdf</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/angularjs-pdf</url>
         <connection>scm:git:https://github.com/webjars/angularjs-pdf.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angularjs-pdf.git</developerConnection>
-        <tag>angularjs-pdf-1.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
